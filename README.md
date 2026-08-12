@@ -175,22 +175,12 @@ Clean code · Meaningful solutions · Continuous learning
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-
-<a href="www.linkedin.com/in/rksivasundari">
+<a href="https://www.linkedin.com/in/rksivasundari/">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:rksivasundari@gmail.com">
   <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:111827,100:0f172a&height=100&section=footer" width="100%"/>
-
-<sub>✨ Code with purpose · Learn with curiosity · Build with consistency</sub>
 
 </div>
