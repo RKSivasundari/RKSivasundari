@@ -179,11 +179,7 @@ Clean code · Meaningful solutions · Continuous learning
 <a href="www.linkedin.com/in/rksivasundari">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
--->
 
-<!-- Add your email when ready -->
-
-<!--
 <a href="mailto:rksivasundari@gmail.com">
   <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
